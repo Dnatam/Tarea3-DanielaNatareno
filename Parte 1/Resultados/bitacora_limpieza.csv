@@ -1,0 +1,7 @@
+﻿Orden,Regla,Filas eliminadas,Monto eliminado (£),Filas restantes
+1,Duplicados exactos,5268,21740.98,536641
+2,Facturas con prefijo A,3,-11062.06,536638
+3,Movimientos administrativos,150,-239669.22,536488
+4,"Precio cero, negativo o faltante",2509,0.0,533979
+5,Cantidad negativa sin cancelación,0,0.0,533979
+6,Datos esenciales faltantes,0,0.0,533979

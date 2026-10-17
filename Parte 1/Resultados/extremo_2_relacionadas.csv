@@ -1,0 +1,3 @@
+﻿InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,Importe,Importe_absoluto,Fecha,Diferencia_minutos,Mismo_producto,Mismo_cliente
+581483,23843,"PAPER CRAFT , LITTLE BIRDIE",80995,2011-12-09 09:15:00,2.08,16446,United Kingdom,168469.6,168469.6,2011-12-09,-12.0,True,True
+C581484,23843,"PAPER CRAFT , LITTLE BIRDIE",-80995,2011-12-09 09:27:00,2.08,16446,United Kingdom,-168469.6,168469.6,2011-12-09,0.0,True,True
