@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 
 # Ubicación del archivo original y carpeta de resultados.
-ARCHIVO_DATOS = Path(__file__).resolve().parent / "Online Retail.xlsx"
+ARCHIVO_DATOS = Path(__file__).resolve().parent.parent / "Online Retail.xlsx"
 CARPETA_RESULTADOS = Path(__file__).resolve().parent / "Resultados"
 
 # Carga las transacciones conservando los identificadores como texto.
